@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653294095201",
+    "firebase_url": "https://lab-6-e1a9a.firebaseio.com",
+    "project_id": "lab-6-e1a9a",
+    "storage_bucket": "lab-6-e1a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653294095201:android:7b8b8ed048763e9cf51320",
+        "android_client_info": {
+          "package_name": "com.abida.lab_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653294095201-nvj3gf90cus293dfasa6id2s73ibvghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nuZr9_qcp-hul1Ljc2mlicpbrVVES1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653294095201-nvj3gf90cus293dfasa6id2s73ibvghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
